@@ -1,0 +1,9 @@
+true,pred,count,row_frac
+cat,dog,41,0.10933333333333334
+dog,cat,36,0.096
+bird,deer,19,0.050666666666666665
+horse,deer,15,0.04
+butterfly,spider,12,0.032
+deer,frog,12,0.032
+bird,frog,11,0.029333333333333333
+horse,dog,10,0.02666666666666667

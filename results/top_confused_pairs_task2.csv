@@ -1,0 +1,9 @@
+true,pred,count,row_frac
+Herring_Gull,Ring_billed_Gull,10,0.23809523809523808
+Yellow_Warbler,Wilson_Warbler,10,0.23809523809523808
+House_Sparrow,Song_Sparrow,9,0.21428571428571427
+Ring_billed_Gull,Herring_Gull,9,0.21428571428571427
+Wilson_Warbler,American_Goldfinch,5,0.11904761904761904
+Wilson_Warbler,Yellow_Warbler,4,0.09523809523809523
+Yellow_Warbler,American_Goldfinch,3,0.07142857142857142
+Song_Sparrow,House_Sparrow,2,0.047619047619047616
