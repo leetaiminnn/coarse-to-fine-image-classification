@@ -1,7 +1,5 @@
 # Coarse-to-Fine-Grained Image Classification
 
-> 粗粒度到细粒度图像分类：用 ImageNet 预训练 ResNet50 特征 + 经典分类器，把 10 类动物分类从 54.7% 提到 91.5%，10 种鸟类细粒度分类从 34.1% 提到 86.3%（5 折交叉验证）。COMP30027 Machine Learning（墨尔本大学，2026 S1）个人项目。
-
 Individual project for COMP30027 Machine Learning, University of Melbourne, Semester 1 2026.
 Two tasks share one pipeline:
 
@@ -47,3 +45,7 @@ Findings worth noting:
 The full notebook is in [comp30027-image-classification-code](https://github.com/leetaiminnn/comp30027-image-classification-code).
 
 Tools: Python 3.11, scikit-learn, PyTorch / torchvision, pandas, matplotlib, seaborn.
+
+## 中文简介
+
+粗粒度到细粒度图像分类：用 ImageNet 预训练 ResNet50 特征 + 经典分类器，把 10 类动物分类从 54.7% 提到 91.5%，10 种鸟类细粒度分类从 34.1% 提到 86.3%（5 折交叉验证）。COMP30027 Machine Learning（墨尔本大学，2026 S1）个人项目。
